@@ -1,8 +1,56 @@
 [
-    {"title": "90210", "album": "Rodeo", "mood": ["sad", "chill"]},
-    {"title": "SICKO MODE", "album": "Astroworld", "mood": ["party", "hype"]},
-    {"title": "goosebumps", "album": "Birds in the Trap Sing McKnight", "mood": ["chill", "sad"]},
-    {"title": "Antidote", "album": "Rodeo", "mood": ["party", "rage"]},
-    {"title": "STOP TRYING TO BE GOD", "album": "Astroworld", "mood": ["chill", "sad"]}
-  ]
+
+  { "title": "Meadow Creek", "album": "Owl Pharaoh", "mood": ["chill"] },
+  { "title": "Bad Mood / Shit On You", "album": "Owl Pharaoh", "mood": ["angry", "hype", "chill", "motivational"] },
+  { "title": "Upper Echelon (feat. T.I. & 2 Chainz)", "album": "Owl Pharaoh", "mood": ["hype", "motivational", "angry", "chill"] },
+  { "title": "Naked (feat. Bon Iver)", "album": "Owl Pharaoh", "mood": ["sad", "deep", "chill", "romantic"] },
+  { "title": "Chaz Interlude (feat. Toro y Moi)", "album": "Owl Pharaoh", "mood": ["funky"] },
+  { "title": "Uptown (feat. A$AP Ferg)", "album": "Owl Pharaoh", "mood": ["hype", "chill", "angry"] },
+  { "title": "Hell of a Night", "album": "Owl Pharaoh", "mood": ["sad", "chill", "romantic", "deep"] },
+  { "title": "Blocka La Flame", "album": "Owl Pharaoh", "mood": ["chill"] },
+  { "title": "Dance on the Moon (feat. Theophilus London & Paul Wall)", "album": "Owl Pharaoh", "mood": ["chill", "hype"] },
+  { "title": "MIA", "album": "Owl Pharaoh", "mood": ["chill", "deep", "funky"] },
+  { "title": "Drive (feat. James Fauntleroy)", "album": "Owl Pharaoh", "mood": ["funky"] },
+  { "title": "Quintana (feat. Wale)", "album": "Owl Pharaoh", "mood": ["motivational", "hype", "chill", "angry"] },
+  { "title": "Bandz (feat. Meek Mill)", "album": "Owl Pharaoh", "mood": ["hype", "party"] },
+  { "title": "16 Chapels", "album": "Owl Pharaoh", "mood": ["chill", "funky", "deep"] },
+
+
   
+    { "title": "Days Before Rodeo: The Prayer", "album": "Days Before Rodeo", "mood": ["angry", "hype", "chill"] },
+    { "title": "Drugs You Should Try It", "album": "Days Before Rodeo", "mood": ["deep", "chill", "sad", "romantic"] },
+    { "title": "Mamacita (feat. Rich Homie Quan & Young Thug)", "album": "Days Before Rodeo", "mood": ["hype", "chill"] },
+    { "title": "Don't Play (feat. Big Sean & The 1975)", "album": "Days Before Rodeo", "mood": ["hype", "chill"] },
+    { "title": "Skyfall", "album": "Days Before Rodeo", "mood": ["deep", "chill", "sad", "hype"] },
+    { "title": "Grey", "album": "Days Before Rodeo", "mood": ["sad", "chill", "deep"] },
+    { "title": "Backyard", "album": "Days Before Rodeo", "mood": ["deep", "chill"] },
+    { "title": "Zombies", "album": "Days Before Rodeo", "mood": ["hype", "angry"] },
+    { "title": "Sloppy Toppy", "album": "Days Before Rodeo", "mood": ["romantic", "chill"] },
+    { "title": "Basement Freestyle", "album": "Days Before Rodeo", "mood": ["hype","sad", "chill"] },
+    { "title": "BACC (Bonus)", "album": "Days Before Rodeo", "mood": ["hype", "chill", "angry"] },
+    { "title": "Quintana, Part 2  ", "album": "Days Before Rodeo", "mood": ["sad", "chill", "hype", "angry", "deep"] },
+
+
+
+    { "title": "", "album": "Rodeo", "mood": [""] },
+    { "title": "", "album": "Rodeo", "mood": [""] },
+    { "title": "", "album": "Rodeo", "mood": [""] },
+    { "title": "", "album": "Rodeo", "mood": [""] },
+    { "title": "", "album": "Rodeo", "mood": [""] },
+    { "title": "", "album": "Rodeo", "mood": [""] },
+    { "title": "", "album": "Rodeo", "mood": [""] },
+    { "title": "", "album": "Rodeo", "mood": [""] },
+    { "title": "", "album": "Rodeo", "mood": [""] },
+    { "title": "", "album": "Rodeo", "mood": [""] },
+    { "title": "", "album": "Rodeo", "mood": [""] },
+    { "title": "", "album": "Rodeo", "mood": [""] },
+    { "title": "", "album": "Rodeo", "mood": [""] },
+    { "title": "", "album": "Rodeo", "mood": [""] },
+    { "title": "", "album": "Rodeo", "mood": [""] },
+    { "title": "", "album": "Rodeo", "mood": [""] }
+   
+
+
+
+
+]
