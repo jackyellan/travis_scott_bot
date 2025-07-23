@@ -23,7 +23,7 @@ keywords = {
     "motivational": ["motivation", "inspire", "hustle", "grind", "work hard", "success"],
     "deep": ["think", "reflect", "introspection"],
     "happy": ["happy", "joy", "positive", "smile"],
-    "funky": ["funky", "groove", "soul", "rhythm"],
+    "funky": ["funky", "groove", "soul", "retro"],
 }
 
 # Match moods based on user input

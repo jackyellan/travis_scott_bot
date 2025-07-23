@@ -21,7 +21,7 @@
     { "title": "Drugs You Should Try It", "album": "Days Before Rodeo", "mood": ["deep", "chill", "sad", "romantic"] },
     { "title": "Mamacita (feat. Rich Homie Quan & Young Thug)", "album": "Days Before Rodeo", "mood": ["hype", "chill"] },
     { "title": "Don't Play (feat. Big Sean & The 1975)", "album": "Days Before Rodeo", "mood": ["hype", "chill"] },
-    { "title": "Skyfall", "album": "Days Before Rodeo", "mood": ["deep", "chill", "sad", "hype"] },
+    { "title": "Skyfall", "album": "Days Before Rodeo", "mood": ["deep", "chill", "hype"] },
     { "title": "Grey", "album": "Days Before Rodeo", "mood": ["sad", "chill", "deep"] },
     { "title": "Backyard", "album": "Days Before Rodeo", "mood": ["deep", "chill"] },
     { "title": "Zombies", "album": "Days Before Rodeo", "mood": ["hype", "angry"] },
@@ -32,22 +32,22 @@
 
 
 
-    { "title": "Pornography", "album": "Rodeo", "mood": [""] },
-    { "title": "Oh My Dis Side (feat. Quavo)", "album": "Rodeo", "mood": [""] },
-    { "title": "3500 (feat. Future & 2 Chainz)", "album": "Rodeo", "mood": [""] },
-    { "title": "Wasted (feat. Juicy J)", "album": "Rodeo", "mood": [""] },
-    { "title": "90210 (feat. Kacy Hill)", "album": "Rodeo", "mood": [""] },
-    { "title": "Pray 4 Love (feat. The Weekend)", "album": "Rodeo", "mood": [""] },
-    { "title": "Nightcrawler (feat. Swae Lee & Chief Keef)", "album": "Rodeo", "mood": [""] },
-    { "title": "Piss On Your Grave (feat. Kanye West)", "album": "Rodeo", "mood": [""] },
-    { "title": "Antidote", "album": "Rodeo", "mood": [""] },
-    { "title": "Impossible", "album": "Rodeo", "mood": [""] },
-    { "title": "Maria I'm Drunk (feat. Justin Bieber & Young Thug)", "album": "Rodeo", "mood": [""] },
-    { "title": "Flying High (feat. Toro y Moi)", "album": "Rodeo", "mood": [""] },
-    { "title": "I Can Tell", "album": "Rodeo", "mood": [""] },
-    { "title": "Apple Pie", "album": "Rodeo", "mood": [""] },
-    { "title": "Ok Alright (feat. ScHoolboy Q)", "album": "Rodeo", "mood": [""] },
-    { "title": "Never Catch Me", "album": "Rodeo", "mood": [""] }
+    { "title": "Pornography", "album": "Rodeo", "mood": ["chill", "deep", "sad"] },
+    { "title": "Oh My Dis Side (feat. Quavo)", "album": "Rodeo", "mood": ["chill", "deep"] },
+    { "title": "3500 (feat. Future & 2 Chainz)", "album": "Rodeo", "mood": ["angry", "hype", "chill"] },
+    { "title": "Wasted (feat. Juicy J)", "album": "Rodeo", "mood": ["chill"] },
+    { "title": "90210 (feat. Kacy Hill)", "album": "Rodeo", "mood": ["deep", "sad", "hype", "chill", "romantic"] },
+    { "title": "Pray 4 Love (feat. The Weeknd)", "album": "Rodeo", "mood": ["sad", "romantic", "chill", "deep"] },
+    { "title": "Nightcrawler (feat. Swae Lee & Chief Keef)", "album": "Rodeo", "mood": ["hype", "chill"] },
+    { "title": "Piss On Your Grave (feat. Kanye West)", "album": "Rodeo", "mood": ["hype", "chill"] },
+    { "title": "Antidote", "album": "Rodeo", "mood": ["hype", "chill"] },
+    { "title": "Impossible", "album": "Rodeo", "mood": ["sad", "deep", "romantic", "chill"] },
+    { "title": "Maria I'm Drunk (feat. Justin Bieber & Young Thug)", "album": "Rodeo", "mood": ["sad", "romantic", "deep", "chill"] },
+    { "title": "Flying High (feat. Toro y Moi)", "album": "Rodeo", "mood": ["hype", "chill"] },
+    { "title": "I Can Tell", "album": "Rodeo", "mood": ["hype", "angry", "chill", "deep"] },
+    { "title": "Apple Pie", "album": "Rodeo", "mood": ["chill", "hype", "deep"] },
+    { "title": "Ok Alright (feat. ScHoolboy Q)", "album": "Rodeo", "mood": ["chill", "deep", "sad"] },
+    { "title": "Never Catch Me", "album": "Rodeo", "mood": ["hype", "chill"] }
    
 
 
