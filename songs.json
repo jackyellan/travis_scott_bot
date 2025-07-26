@@ -69,8 +69,24 @@
 
 
 
+    { "title": "Modern Slavery", "album": "Huncho Jack, Jack Huncho", "mood": ["chill"] },
+    { "title": "Black & Chinese", "album": "Huncho Jack, Jack Huncho", "mood": ["chill", "hype"] },
+    { "title": "Eye 2 Eye", "album": "Huncho Jack, Jack Huncho", "mood": ["chill"] },
+    { "title": "Motorcycle Patches", "album": "Huncho Jack, Jack Huncho", "mood": ["chill"] },
+    { "title": "Huncho Jack", "album": "Huncho Jack, Jack Huncho", "mood": ["chill"] },
+    { "title": "Saint", "album": "Huncho Jack, Jack Huncho", "mood": ["chill"] },
+    { "title": "Go", "album": "Huncho Jack, Jack Huncho", "mood": ["chill"] },
+    { "title": "Dubai Shit", "album": "Huncho Jack, Jack Huncho", "mood": ["chill"] },
+    { "title": "Saint Laurent Mask", "album": "Huncho Jack, Jack Huncho", "mood": ["chill"] },
+    { "title": "Moon Rock", "album": "Huncho Jack, Jack Huncho", "mood": ["chill", "angry"] },
+    { "title": "How U Feel", "album": "Huncho Jack, Jack Huncho", "mood": ["chill", "funky"] },
+    { "title": "Where U From", "album": "Huncho Jack, Jack Huncho", "mood": ["chill"] },
+    { "title": "Best Man", "album": "Huncho Jack, Jack Huncho", "mood": ["chill", "funky"] },
 
-    
+
+
+
+
 
 
 ]
