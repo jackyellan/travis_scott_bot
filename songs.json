@@ -26,7 +26,7 @@
     { "title": "Backyard", "album": "Days Before Rodeo", "mood": ["deep", "chill"] },
     { "title": "Zombies", "album": "Days Before Rodeo", "mood": ["hype", "angry"] },
     { "title": "Sloppy Toppy", "album": "Days Before Rodeo", "mood": ["romantic", "chill"] },
-    { "title": "Basement Freestyle", "album": "Days Before Rodeo", "mood": ["hype","sad", "chill"] },
+    { "title": "Basement Freestyle", "album": "Days Before Rodeo", "mood": ["hype", "chill"] },
     { "title": "BACC (Bonus)", "album": "Days Before Rodeo", "mood": ["hype", "chill", "angry"] },
     { "title": "Quintana, Part 2  ", "album": "Days Before Rodeo", "mood": ["sad", "chill", "hype", "angry", "deep"] },
 
@@ -47,10 +47,30 @@
     { "title": "I Can Tell", "album": "Rodeo", "mood": ["hype", "angry", "chill", "deep"] },
     { "title": "Apple Pie", "album": "Rodeo", "mood": ["chill", "hype", "deep"] },
     { "title": "Ok Alright (feat. ScHoolboy Q)", "album": "Rodeo", "mood": ["chill", "deep", "sad"] },
-    { "title": "Never Catch Me", "album": "Rodeo", "mood": ["hype", "chill"] }
+    { "title": "Never Catch Me", "album": "Rodeo", "mood": ["hype", "chill"] },
    
 
 
+
+    { "title": "the ends", "album": "Birds In The Trap Sing McKnight", "mood": ["chill", "sad", "deep"] },
+    { "title": "way back", "album": "Birds In The Trap Sing McKnight", "mood": ["chill"] },
+    { "title": "coordinate", "album": "Birds In The Trap Sing McKnight", "mood": ["chill"] },
+    { "title": "through the late night", "album": "Birds In The Trap Sing McKnight", "mood": ["chill"] },
+    { "title": "beibs in the trap", "album": "Birds In The Trap Sing McKnight", "mood": ["chill"] },
+    { "title": "sdp interlude", "album": "Birds In The Trap Sing McKnight", "mood": ["chill"] },
+    { "title": "sweet sweet", "album": "Birds In The Trap Sing McKnight", "mood": ["chill", "romantic", "hype"] },
+    { "title": "outside", "album": "Birds In The Trap Sing McKnight", "mood": ["chill", "angry"] },
+    { "title": "goosebumps", "album": "Birds In The Trap Sing McKnight", "mood": ["chill", "hype", "sad", "romantic"] },
+    { "title": "first take", "album": "Birds In The Trap Sing McKnight", "mood": ["chill", "romantic"] },
+    { "title": "pick up the phone (feat. Quavo)", "album": "Birds In The Trap Sing McKnight", "mood": ["chill", "hype", "romantic"] },
+    { "title": "lose", "album": "Birds In The Trap Sing McKnight", "mood": ["chill"] },
+    { "title": "guidance", "album": "Birds In The Trap Sing McKnight", "mood": ["chill", "sad", "deep", "romantic"] },
+    { "title": "wonderful", "album": "Birds In The Trap Sing McKnight", "mood": ["chill"] },
+
+
+
+
+    
 
 
 ]
