@@ -79,11 +79,40 @@
     { "title": "Dubai Shit", "album": "Huncho Jack, Jack Huncho", "mood": ["chill"] },
     { "title": "Saint Laurent Mask", "album": "Huncho Jack, Jack Huncho", "mood": ["chill"] },
     { "title": "Moon Rock", "album": "Huncho Jack, Jack Huncho", "mood": ["chill", "angry"] },
-    { "title": "How U Feel", "album": "Huncho Jack, Jack Huncho", "mood": ["chill", "funky"] },
+    { "title": "How U Feel", "album": "Huncho Jack, Jack Huncho", "mood": ["chill"] },
     { "title": "Where U From", "album": "Huncho Jack, Jack Huncho", "mood": ["chill"] },
-    { "title": "Best Man", "album": "Huncho Jack, Jack Huncho", "mood": ["chill", "funky"] },
+    { "title": "Best Man", "album": "Huncho Jack, Jack Huncho", "mood": ["chill"] },
+
+    // ADD A NOTE ON WEBSITE ABOUT HOW HUNCHO JACK IS MOSTLY A CALMING/CHILL ALBUM AND NOT A GOOD ALBUM
 
 
+    { "title": "STARGAZING", "album": "ASTROWORLD", "mood": ["chill", "hype", "angry"] },
+    { "title": "CAROUSEL", "album": "ASTROWORLD", "mood": ["chill"] },
+    { "title": "SICKO MODE", "album": "ASTROWORLD", "mood": ["chill", "hype", "angry", "motivational"] },
+    { "title": "R.I.P SCREW", "album": "ASTROWORLD", "mood": ["chill", "funky"] },
+    { "title": "STOP TRYING TO BE GOD", "album": "ASTROWORLD", "mood": ["chill", "deep", "sad"] },
+    { "title": "NO BYSTANDERS", "album": "ASTROWORLD", "mood": ["chill", "hype", "angry"] },
+    { "title": "SKELETONS", "album": "ASTROWORLD", "mood": ["chill", "romantic", "sad", "deep"] },
+    { "title": "WAKE UP", "album": "ASTROWORLD", "mood": ["chill", "romantic"] },
+    { "title": "5% TINT", "album": "ASTROWORLD", "mood": ["chill", "angry", "hype"] },
+    { "title": "NC-17", "album": "ASTROWORLD", "mood": ["chill", "funky"] },
+    { "title": "ASTROTHUNDER", "album": "ASTROWORLD", "mood": ["chill" ,"funky", "deep", "sad"] },
+    { "title": "YOSEMITE", "album": "ASTROWORLD", "mood": ["chill"] },
+    { "title": "CAN'T SAY", "album": "ASTROWORLD", "mood": ["chill", "hype"] },
+    { "title": "WHO? WHAT!", "album": "ASTROWORLD", "mood": ["chill", "angry", "hype"] },
+    { "title": "BUTTERFLY EFFECT", "album": "ASTROWORLD", "mood": ["chill", "hype"] },
+    { "title": "HOUSTONFORNICATION", "album": "ASTROWORLD", "mood": ["chill", "hype"] },
+    { "title": "COFFEE BEAN", "album": "ASTROWORLD", "mood": ["chill" ,"romantic","sad"] },
+
+
+
+    { "title": "HIGHEST IN THE ROOM", "album": "JACKBOYS", "mood": ["chill", ] },
+    { "title": "", "album": "JACKBOYS", "mood": ["chill", ] },
+    { "title": "", "album": "JACKBOYS", "mood": ["chill", ] },
+    { "title": "", "album": "JACKBOYS", "mood": ["chill", ] },
+    { "title": "", "album": "JACKBOYS", "mood": ["chill", ] },
+    { "title": "", "album": "JACKBOYS", "mood": ["chill", ] },
+    { "title": "", "album": "JACKBOYS", "mood": ["chill", ] },
 
 
 
