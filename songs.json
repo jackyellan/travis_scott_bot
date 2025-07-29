@@ -116,6 +116,34 @@
 
 
 
+    { "title": "HYAENA", "album": "UTOPIA", "mood": ["chill", "angry", "deep" ] },
+    { "title": "THANK GOD", "album": "UTOPIA", "mood": ["chill", "deep", "sad" ] },
+    { "title": "MODERN JAM (feat. Teezo Touchdown)", "album": "UTOPIA", "mood": ["chill", "funky", "hype" ] },
+    { "title": "MY EYES", "album": "UTOPIA", "mood": ["chill", "deep", "funky", "sad", "romantic" ] },
+    { "title": "GOD'S COUNTRY", "album": "UTOPIA", "mood": ["chill", "angry"] },
+    { "title": "SIRENS", "album": "UTOPIA", "mood": ["chill", "angry", "deep"] },
+    { "title": "MELTDOWN (feat. Drake)", "album": "UTOPIA", "mood": ["chill", "angry" ] },
+    { "title": "FE!N (feat. Playboi Carti)", "album": "UTOPIA", "mood": ["angry", "hype" ] },
+    { "title": "DELRESTO (ECHOES)(feat. Beyoncé) ", "album": "UTOPIA", "mood": ["chill", "funky" ] },
+    { "title": "I KNOW?", "album": "UTOPIA", "mood": ["chill", "sad", "romantic", "deep"] },
+    { "title": "TOPIA TWINS (Ft. 21 Savage & Rob49)", "album": "UTOPIA", "mood": ["chill", "hype" ] },
+    { "title": "CIRCUS MAXIMUS (Ft. Swae Lee & The Weeknd)", "album": "UTOPIA", "mood": ["chill", "funky", "hype", "angry" ] },
+    { "title": "PARASAIL (Ft. Dave Chappelle & Yung Lean)", "album": "UTOPIA", "mood": ["chill", "sad", "romantic" , "deep"] },
+    { "title": "SKITZO (Ft. Young Thug)", "album": "UTOPIA", "mood": ["chill", "angry" ] },
+    { "title": "LOST FOREVER (Ft. Westside Gunn)", "album": "UTOPIA", "mood": ["chill", "deep", "sad"] },
+    { "title": "LOOOVE (Ft. Kid Cudi)", "album": "UTOPIA", "mood": ["chill", "hype", "angry" ] },
+    { "title": "K-POP (Ft. Bad Bunny & The Weeknd)", "album": "UTOPIA", "mood": ["chill", "funky", "hype" ] },
+    { "title": "TELEKINESIS (Ft. Future & SZA)", "album": "UTOPIA", "mood": ["chill", "sad", "romantic", "hype", "deep" ] },
+    { "title": "TIL FURTHER NOTICE (Ft. 21 Savage & James Blake)", "album": "UTOPIA", "mood": ["chill", "romantic", "sad", "deep" ] },
+   
+
+
+
+
+
+
+
+
 
 
 ]
