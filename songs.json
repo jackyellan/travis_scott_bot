@@ -88,7 +88,7 @@
 
     { "title": "STARGAZING", "album": "ASTROWORLD", "mood": ["chill", "hype", "angry"] },
     { "title": "CAROUSEL", "album": "ASTROWORLD", "mood": ["chill"] },
-    { "title": "SICKO MODE", "album": "ASTROWORLD", "mood": ["chill", "hype", "angry", "motivational"] },
+    { "title": "SICKO MODE", "album": "ASTROWORLD", "mood": ["chill", "hype", "angry"] },
     { "title": "R.I.P SCREW", "album": "ASTROWORLD", "mood": ["chill", "funky"] },
     { "title": "STOP TRYING TO BE GOD", "album": "ASTROWORLD", "mood": ["chill", "deep", "sad"] },
     { "title": "NO BYSTANDERS", "album": "ASTROWORLD", "mood": ["chill", "hype", "angry"] },
@@ -106,13 +106,13 @@
 
 
 
-    { "title": "HIGHEST IN THE ROOM", "album": "JACKBOYS", "mood": ["chill", ] },
-    { "title": "", "album": "JACKBOYS", "mood": ["chill", ] },
-    { "title": "", "album": "JACKBOYS", "mood": ["chill", ] },
-    { "title": "", "album": "JACKBOYS", "mood": ["chill", ] },
-    { "title": "", "album": "JACKBOYS", "mood": ["chill", ] },
-    { "title": "", "album": "JACKBOYS", "mood": ["chill", ] },
-    { "title": "", "album": "JACKBOYS", "mood": ["chill", ] },
+    { "title": "HIGHEST IN THE ROOM (feat. ROSALÍA & Lil Baby) - REMIX", "album": "JACKBOYS", "mood": ["chill", "funky" ] },
+    { "title": "JACKBOYS", "album": "JACKBOYS", "mood": ["funky"] },
+    { "title": "GANG GANG", "album": "JACKBOYS", "mood": ["chill"] },
+    { "title": "HAD ENOUGH (feat. Quavo & Offset)", "album": "JACKBOYS", "mood": ["chill" ] },
+    { "title": "OUT WEST (feat. Young Thug)", "album": "JACKBOYS", "mood": ["chill" ] },
+    { "title": "WHAT TO DO? (feat. Don Toliver)", "album": "JACKBOYS", "mood": ["chill", "funky" ] },
+    { "title": "GATTI", "album": "JACKBOYS", "mood": ["chill", "hype", "angry" ] },
 
 
 
