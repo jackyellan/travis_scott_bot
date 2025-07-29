@@ -1,4 +1,5 @@
 import json
+from mood_keywords import keywords
 
 # Load the songs database
 with open("songs.json") as f:
@@ -13,18 +14,6 @@ print("You can also optionally name an album (e.g., Rodeo, UTOPIA, Astroworld)."
 user_input = input("What's your mood? (e.g., sad, party, chill): ").strip().lower()
 album_input = input("Optional: Pick a specific album (or leave blank): ").strip()
 
-# Keyword map
-keywords = {
-    "hype": ["party", "turn up", "lit", "hype", "club"],
-    "sad": ["sad", "cry", "breakup", "depressed", "alone"],
-    "chill": ["chill", "relax", "smoke", "vibe", "calm"],
-    "angry": ["mad", "angry", "rage", "furious", "pissed"],
-    "romantic": ["love", "date", "affection", "passion"],
-    "motivational": ["motivation", "inspire", "hustle", "grind", "work hard", "success"],
-    "deep": ["think", "reflect", "introspection"],
-    "happy": ["happy", "joy", "positive", "smile"],
-    "funky": ["funky", "groove", "soul", "retro"],
-}
 
 # Match moods based on user input
 matched_moods = []
