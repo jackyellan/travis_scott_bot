@@ -53,7 +53,7 @@
 
 
     { "title": "the ends", "album": "Birds In The Trap Sing McKnight", "mood": ["chill", "sad", "deep"] },
-    { "title": "way back", "album": "Birds In The Trap Sing McKnight", "mood": ["chill"] },
+    { "title": "way back", "album": "Birds In The Trap Sing McKnight", "mood": ["chill", "happy"] },
     { "title": "coordinate", "album": "Birds In The Trap Sing McKnight", "mood": ["chill"] },
     { "title": "through the late night", "album": "Birds In The Trap Sing McKnight", "mood": ["chill"] },
     { "title": "beibs in the trap", "album": "Birds In The Trap Sing McKnight", "mood": ["chill"] },
@@ -61,11 +61,11 @@
     { "title": "sweet sweet", "album": "Birds In The Trap Sing McKnight", "mood": ["chill", "romantic", "hype"] },
     { "title": "outside", "album": "Birds In The Trap Sing McKnight", "mood": ["chill", "angry"] },
     { "title": "goosebumps", "album": "Birds In The Trap Sing McKnight", "mood": ["chill", "hype", "sad", "romantic"] },
-    { "title": "first take", "album": "Birds In The Trap Sing McKnight", "mood": ["chill", "romantic"] },
+    { "title": "first take", "album": "Birds In The Trap Sing McKnight", "mood": ["chill", "romantic", "happy"] },
     { "title": "pick up the phone (feat. Quavo)", "album": "Birds In The Trap Sing McKnight", "mood": ["chill", "hype", "romantic"] },
-    { "title": "lose", "album": "Birds In The Trap Sing McKnight", "mood": ["chill"] },
+    { "title": "lose", "album": "Birds In The Trap Sing McKnight", "mood": ["chill", "happy"] },
     { "title": "guidance", "album": "Birds In The Trap Sing McKnight", "mood": ["chill", "sad", "deep", "romantic"] },
-    { "title": "wonderful", "album": "Birds In The Trap Sing McKnight", "mood": ["chill"] },
+    { "title": "wonderful", "album": "Birds In The Trap Sing McKnight", "mood": ["chill", "happy"] },
 
 
 
@@ -83,13 +83,12 @@
     { "title": "Where U From", "album": "Huncho Jack, Jack Huncho", "mood": ["chill"] },
     { "title": "Best Man", "album": "Huncho Jack, Jack Huncho", "mood": ["chill"] },
 
-    // ADD A NOTE ON WEBSITE ABOUT HOW HUNCHO JACK IS MOSTLY A CALMING/CHILL ALBUM AND NOT A GOOD ALBUM
-
+   
 
     { "title": "STARGAZING", "album": "ASTROWORLD", "mood": ["chill", "hype", "angry"] },
     { "title": "CAROUSEL", "album": "ASTROWORLD", "mood": ["chill"] },
     { "title": "SICKO MODE", "album": "ASTROWORLD", "mood": ["chill", "hype", "angry"] },
-    { "title": "R.I.P SCREW", "album": "ASTROWORLD", "mood": ["chill", "funky"] },
+    { "title": "R.I.P SCREW", "album": "ASTROWORLD", "mood": ["chill", "funky", "happy"] },
     { "title": "STOP TRYING TO BE GOD", "album": "ASTROWORLD", "mood": ["chill", "deep", "sad"] },
     { "title": "NO BYSTANDERS", "album": "ASTROWORLD", "mood": ["chill", "hype", "angry"] },
     { "title": "SKELETONS", "album": "ASTROWORLD", "mood": ["chill", "romantic", "sad", "deep"] },
@@ -97,7 +96,7 @@
     { "title": "5% TINT", "album": "ASTROWORLD", "mood": ["chill", "angry", "hype"] },
     { "title": "NC-17", "album": "ASTROWORLD", "mood": ["chill", "funky"] },
     { "title": "ASTROTHUNDER", "album": "ASTROWORLD", "mood": ["chill" ,"funky", "deep", "sad"] },
-    { "title": "YOSEMITE", "album": "ASTROWORLD", "mood": ["chill"] },
+    { "title": "YOSEMITE", "album": "ASTROWORLD", "mood": ["chill", "happy"] },
     { "title": "CAN'T SAY", "album": "ASTROWORLD", "mood": ["chill", "hype"] },
     { "title": "WHO? WHAT!", "album": "ASTROWORLD", "mood": ["chill", "angry", "hype"] },
     { "title": "BUTTERFLY EFFECT", "album": "ASTROWORLD", "mood": ["chill", "hype"] },
@@ -109,9 +108,9 @@
     { "title": "HIGHEST IN THE ROOM (feat. ROSALÍA & Lil Baby) - REMIX", "album": "JACKBOYS", "mood": ["chill", "funky" ] },
     { "title": "JACKBOYS", "album": "JACKBOYS", "mood": ["funky"] },
     { "title": "GANG GANG", "album": "JACKBOYS", "mood": ["chill"] },
-    { "title": "HAD ENOUGH (feat. Quavo & Offset)", "album": "JACKBOYS", "mood": ["chill" ] },
-    { "title": "OUT WEST (feat. Young Thug)", "album": "JACKBOYS", "mood": ["chill" ] },
-    { "title": "WHAT TO DO? (feat. Don Toliver)", "album": "JACKBOYS", "mood": ["chill", "funky" ] },
+    { "title": "HAD ENOUGH (feat. Quavo & Offset)", "album": "JACKBOYS", "mood": ["chill", "happy" ] },
+    { "title": "OUT WEST (feat. Young Thug)", "album": "JACKBOYS", "mood": ["chill", "happy" ] },
+    { "title": "WHAT TO DO? (feat. Don Toliver)", "album": "JACKBOYS", "mood": ["chill", "funky", "happy" ] },
     { "title": "GATTI", "album": "JACKBOYS", "mood": ["chill", "hype", "angry" ] },
 
 
@@ -124,7 +123,7 @@
     { "title": "SIRENS", "album": "UTOPIA", "mood": ["chill", "angry", "deep"] },
     { "title": "MELTDOWN (feat. Drake)", "album": "UTOPIA", "mood": ["chill", "angry" ] },
     { "title": "FE!N (feat. Playboi Carti)", "album": "UTOPIA", "mood": ["angry", "hype" ] },
-    { "title": "DELRESTO (ECHOES)(feat. Beyoncé) ", "album": "UTOPIA", "mood": ["chill", "funky" ] },
+    { "title": "DELRESTO (ECHOES)(feat. Beyoncé) ", "album": "UTOPIA", "mood": ["chill", "funky", "happy" ] },
     { "title": "I KNOW?", "album": "UTOPIA", "mood": ["chill", "sad", "romantic", "deep"] },
     { "title": "TOPIA TWINS (Ft. 21 Savage & Rob49)", "album": "UTOPIA", "mood": ["chill", "hype" ] },
     { "title": "CIRCUS MAXIMUS (Ft. Swae Lee & The Weeknd)", "album": "UTOPIA", "mood": ["chill", "funky", "hype", "angry" ] },
@@ -132,30 +131,34 @@
     { "title": "SKITZO (Ft. Young Thug)", "album": "UTOPIA", "mood": ["chill", "angry" ] },
     { "title": "LOST FOREVER (Ft. Westside Gunn)", "album": "UTOPIA", "mood": ["chill", "deep", "sad"] },
     { "title": "LOOOVE (Ft. Kid Cudi)", "album": "UTOPIA", "mood": ["chill", "hype", "angry" ] },
-    { "title": "K-POP (Ft. Bad Bunny & The Weeknd)", "album": "UTOPIA", "mood": ["chill", "funky", "hype" ] },
-    { "title": "TELEKINESIS (Ft. Future & SZA)", "album": "UTOPIA", "mood": ["chill", "sad", "romantic", "hype", "deep" ] },
+    { "title": "K-POP (Ft. Bad Bunny & The Weeknd)", "album": "UTOPIA", "mood": ["chill", "funky", "hype", "happy" ] },
+    { "title": "TELEKINESIS (Ft. Future & SZA)", "album": "UTOPIA", "mood": ["chill", "sad", "romantic", "hype", "deep", "happy" ] },
     { "title": "TIL FURTHER NOTICE (Ft. 21 Savage & James Blake)", "album": "UTOPIA", "mood": ["chill", "romantic", "sad", "deep" ] },
    
 
 
 
-    { "title": "", "album": "JACKBOYS 2", "mood": ["chill", ] },
-    { "title": "", "album": "JACKBOYS 2", "mood": ["chill", ] },
-    { "title": "", "album": "JACKBOYS 2", "mood": ["chill", ] },
-    { "title": "", "album": "JACKBOYS 2", "mood": ["chill", ] },
-    { "title": "", "album": "JACKBOYS 2", "mood": ["chill", ] },
-    { "title": "", "album": "JACKBOYS 2", "mood": ["chill", ] },
-    { "title": "", "album": "JACKBOYS 2", "mood": ["chill", ] },
-    { "title": "", "album": "JACKBOYS 2", "mood": ["chill", ] },
-    { "title": "", "album": "JACKBOYS 2", "mood": ["chill", ] },
-    { "title": "", "album": "JACKBOYS 2", "mood": ["chill", ] },
-    { "title": "", "album": "JACKBOYS 2", "mood": ["chill", ] },
-    { "title": "", "album": "JACKBOYS 2", "mood": ["chill", ] },
-    { "title": "", "album": "JACKBOYS 2", "mood": ["chill", ] },
-    { "title": "", "album": "JACKBOYS 2", "mood": ["chill", ] },
-    { "title": "", "album": "JACKBOYS 2", "mood": ["chill", ] },
-    { "title": "", "album": "JACKBOYS 2", "mood": ["chill", ] },
-    { "title": "", "album": "JACKBOYS 2", "mood": ["chill", ] }
+    { "title": "JB2 RADIO", "album": "JACKBOYS 2", "mood": ["funky"] },
+    { "title": "CHAMPAIN & VACAY", "album": "JACKBOYS 2", "mood": ["chill", "hype"]},
+    { "title": "2000 EXCURSION", "album": "JACKBOYS 2", "mood": ["chill", "funky", "deep"] },
+    { "title": "KICK OUT", "album": "JACKBOYS 2", "mood": ["chill", "happy"] },
+    { "title": "DUMBO", "album": "JACKBOYS 2", "mood": ["chill", "happy", "deep", "funky"] },
+    { "title": "MM3", "album": "JACKBOYS 2", "mood": ["chill","hype"] },
+    { "title": "VELOUR", "album": "JACKBOYS 2", "mood": ["chill", "happy", "funky" ] },
+    { "title": "CONTEST", "album": "JACKBOYS 2", "mood": ["chill", "hype", "angry" ] },
+    { "title": "ILMB", "album": "JACKBOYS 2", "mood": ["chill", "romantic","hype"] },
+    { "title": "WHERE WAS YOU", "album": "JACKBOYS 2", "mood": ["chill", "hype"] },
+    { "title": "NO COMMENTS", "album": "JACKBOYS 2", "mood": ["chill", "hype", "happy"   ] },
+    { "title": "BEEP BEEP", "album": "JACKBOYS 2", "mood": ["chill" ] },
+    { "title": "PBT", "album": "JACKBOYS 2", "mood": ["chill", "funky", "happy"] },
+    { "title": "SHYNE", "album": "JACKBOYS 2", "mood": ["chill", "hype", "angry"] },
+    { "title": "OUTSIDE", "album": "JACKBOYS 2", "mood": ["chill", "angry", "funky" , "hype" ] },
+    { "title": "FLORIDA FLOW", "album": "JACKBOYS 2", "mood": ["chill"] },
+    { "title": "DA WIZARD", "album": "JACKBOYS 2", "mood": ["chill", "deep", "sad", "funky" ] },
+    { "title": "TRIP OUT", "album": "JACKBOYS 2", "mood": ["hype", "angry"] },
+    { "title": "110 SOUTH", "album": "JACKBOYS 2", "mood": ["chill"] }
+
+   
 
 
 
