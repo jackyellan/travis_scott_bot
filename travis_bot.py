@@ -6,7 +6,7 @@ with open("songs.json") as f:
     songs = json.load(f)
 
 # Greeting
-print("🎧 Welcome to the Travis Scott bot!")
+print("🎧 Welcome to the Travis Scott bot")
 print("Tell me how you’re feeling, and I’ll find a Travis Scott song for that vibe.")
 print("You can also optionally name an album (e.g., Rodeo, UTOPIA, Astroworld).")
 
@@ -47,4 +47,4 @@ else:
             else:
                 print("😕 No Travis songs match that vibe. Try another mood.")
     else:
-        print("❓ I didn’t catch a clear mood. Try saying something like 'I’m feeling hype' or 'I feel sad'.")
+        print("❓ ❌ I didn’t catch a clear mood. Try saying something like 'I want songs for a party playlist!' or 'I feel sad 😕'.")
