@@ -1,3 +1,0 @@
-([('travis_bot_gui',
-   '/Users/jacky/Documents/GitHub/travis_bot/dist/travis_bot_gui',
-   'EXECUTABLE')],)

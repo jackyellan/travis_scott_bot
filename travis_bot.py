@@ -12,7 +12,7 @@ print("You can also optionally name an album (e.g., Rodeo, UTOPIA, Astroworld)."
 
 # User input
 user_input = input("What's your mood? (e.g., sad, party, chill): ").strip().lower()
-album_input = input("Optional: Pick a specific album (or leave blank): ").strip()
+album_input = input("Optional: Pick a specific album (or leave blank): ").strip().lower()
 
 
 # Match moods based on user input
@@ -27,7 +27,7 @@ all_albums = set(song["album"] for song in songs)
 # Handle non-existent album
 if album_input and album_input not in all_albums:
     print(f"❌ The album '{album_input}' doesn't exist in the database.")
-    print("Available albums include: " + ", ".join(sorted(all_albums)))
+    print("Available albums are: Owl Pharaoh, Days Before Rodeo, Rodeo, Birds in the Trap Sing McKnight, ASTROWORLD, JACKBOYS, UTOPIA, JACKBOYS 2")
 else:
     # Filter songs based on mood and album
     recommendations = [
