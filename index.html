@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>🎧 Travis Scott Fan Hub</title>
+<style>
+/* Reset and base styles */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #1a1a2e, #16213e);
+  color: #f0f0f0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  text-align: center;
+  letter-spacing: 2px;
+  color: #e94560;
+  text-shadow: 0 0 10px #e94560;
+}
+
+p.subtitle {
+  font-size: 1.2rem;
+  margin-bottom: 3rem;
+  text-align: center;
+  color: #a1a1a1;
+}
+
+/* Container for the links/buttons */
+.links-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+  max-width: 600px;
+  width: 100%;
+}
+
+/* Link buttons */
+.link-btn {
+  background: #0f3460;
+  border: none;
+  padding: 1rem 2rem;
+  border-radius: 12px;
+  font-size: 1.2rem;
+  color: #f0f0f0;
+  text-decoration: none;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+  transition: background 0.3s ease, transform 0.2s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  user-select: none;
+  width: 220px;
+  text-align: center;
+}
+
+/* Hover effect for buttons */
+.link-btn:hover,
+.link-btn:focus {
+  background: #e94560;
+  outline: none;
+  transform: scale(1.05);
+  box-shadow: 0 6px 14px rgba(233, 69, 96, 0.7);
+}
+
+/* Responsive font scaling */
+@media (max-width: 480px) {
+  h1 {
+    font-size: 2rem;
+  }
+  .link-btn {
+    width: 100%;
+    font-size: 1rem;
+  }
+}
+
+/* Footer */
+footer {
+  margin-top: auto;
+  font-size: 0.9rem;
+  color: #777;
+  text-align: center;
+  padding: 1rem 0 0;
+  width: 100%;
+  max-width: 600px;
+}
+
+</style>
+</head>
+<body>
+
+  <h1>Travis Scott Fan Hub 🎵🎧💃🕺🎶 </h1>
+  <p class="subtitle">Welcome! Choose a section below to explore.</p>
+
+  <div class="links-container" role="navigation" aria-label="Main navigation links">
+    <a href="travis_bot.html" target="_blank" class="link-btn" rel="noopener noreferrer" aria-label="Open Travis Scott Bot in new tab">
+        Travis Scott Bot
+    </a>
+
+    <a href="index.html" target="_blank" class="link-btn" rel="noopener noreferrer" aria-label="Open Album Rankings in new tab">
+      Album Rankings (not yet added)
+    </a>
+  </div>
+
+  <footer>
+    &copy; 2025 Your Name - Powered by Travis Scott API & your custom code
+  </footer>
+
+</body>
+</html>
