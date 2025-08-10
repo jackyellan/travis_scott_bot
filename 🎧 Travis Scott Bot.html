@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🎧 Travis Scott Bot</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🎧 Travis Scott Bot</h1>
+            <p>Tell me how you're feeling, and I'll find a Travis Scott song for that vibe.<br>
+            You can also optionally pick a specific album.</p>
+        </div>
+
+        <form id="moodForm">
+            <div class="form-group">
+                <label for="moodInput">What's your mood?</label>
+                <input type="text" id="moodInput" placeholder="e.g., sad, party, chill, energetic, dark..." required>
+            </div>
+
+            <div class="form-group">
+                <label for="albumSelect">Optional: Pick a specific album</label>
+                <select id="albumSelect">
+                    <option value="">All Albums</option>
+                    <option value="owl pharaoh">Owl Pharaoh</option>
+                    <option value="days before rodeo">Days Before Rodeo</option>
+                    <option value="rodeo">Rodeo</option>
+                    <option value="birds in the trap sing mcknight">Birds in the Trap Sing McKnight</option>
+                    <option value="astroworld">ASTROWORLD</option>
+                    <option value="jackboys">JACKBOYS</option>
+                    <option value="utopia">UTOPIA</option>
+                    <option value="jackboys 2">JACKBOYS 2</option>
+                </select>
+            </div>
+
+            <button type="submit" class="btn">Find My Vibe 🎵</button>
+        </form>
+
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <p>Finding your perfect Travis Scott tracks...</p>
+        </div>
+
+        <div class="results" id="results">
+            <h3 id="resultsTitle"></h3>
+            <ul class="song-list" id="songList"></ul>
+        </div>
+    </div>
+
+    <div class="info-box">
+        <h3>How It Works</h3>
+        <p>This bot analyzes your mood and matches it with the perfect Travis Scott tracks. Simply describe how you're feeling using words like <span class="highlight">"happy"</span>, <span class="highlight">"chill"</span>, <span class="highlight">"party"</span>, or <span class="highlight">"sad"</span>. Or even in sentences like<span class="highlight">"I just broke up with my girlfriend."</span>or <span class="highlight">"I want some deep tracks."</span></p>
+        <p>You can also filter by specific albums like <span class="highlight">ASTROWORLD</span>, <span class="highlight">Rodeo</span>, or <span class="highlight">UTOPIA</span> to discover tracks that match both your vibe and favorite era of Travis's music.</p>
+        <p>The bot uses advanced mood mapping to connect your emotions with the energy and themes of each song. Get ready to discover your next favorite Travis Scott track! 🎵</p>
+    </div>
+
+ <script src="script.js"></script>
+ 
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+</body>
+</html>
