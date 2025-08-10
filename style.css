@@ -625,18 +625,26 @@ select option {
   }
 
   /* media travis_scott1 */
+.travis_scott1 {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto 1.5rem; /* centers and adds space below */
+  border-radius: 2rem;
+  object-fit: cover;
+}
+
+/* Optional glow effect on tap/hover */
+.travis_scott1,
+.travis-img:active {
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.6);
+  transition: box-shadow 0.3s ease;
+}
+
+/* Extra spacing fix for small screens */
+@media screen and (max-width: 768px) {
   .travis_scott1 {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    border-radius: 2rem;
-    object-fit: cover;
+    margin-bottom: 2rem; /* more breathing room on mobile */
   }
-  
-  /* Optional glow effect on tap/hover */
-  .travis_scott1:hover,
-  .travis_scott1:active {
-    box-shadow: 0 0 15px rgba(255, 255, 255, 0.6);
-    transition: box-shadow 0.3s ease;
-  }
+}
 }
