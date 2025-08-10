@@ -42,29 +42,6 @@ body::before {
 
 /* ========== INDEX PAGE STYLES ========== */
 
-
-/* IMAGES */
-.travis_scott1 {
-   /* Size */
-   width: 300px;       /* set the exact width */
-   height: auto;       /* keep aspect ratio, or set a px value if you want fixed height */
- 
-   /* Position */
-   position: absolute; /* allows precise positioning */
-   top: 350px;          /* distance from the top of the page */
-   left: 50%;          /* distance from the left side of the page */
-   transform: translateX(-50%); /* center horizontally */
-
- }
-
- .travis_scott1:hover{
-
-    transform: translateX(-50%) scale(1.05); /* Slightly enlarge on hover */
-    transition: transform 0.3s ease; /* Smooth transition */
-
-
-}
-
 /* Main heading styles */
 h1 {
   font-size: 3rem;
@@ -623,12 +600,4 @@ select option {
     color: black !important;
     border: 1px solid black !important;
   }
-
-  /* media travis_scott1 making it not visable on iphone */
-  @media (max-width: 768px) { 
-    .travis_scott1 { 
-      display: none !important; 
-    } 
-  }
-  
 }
