@@ -624,33 +624,11 @@ select option {
     border: 1px solid black !important;
   }
 
-  /* media travis_scott1 */
-  .travis_scott1 {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-    border-radius: 2rem;
-    object-fit: cover;
+  /* media travis_scott1 making it not visable on iphone */
+  @media (max-width: 768px) { 
+    .travis_scott1 { 
+      display: none !important; 
+    } 
   }
   
-  /* Optional glow effect on tap/hover */
-  .travis_scott1:hover,
-  .travis_scott1 {
-    box-shadow: 0 0 15px rgba(255, 255, 255, 0.6);
-    transition: box-shadow 0.3s ease;
-  }
-  
-  /* Extra spacing fix for small screens */
-  @media screen and (max-width: 768px) {
-    .travis_scott1 {
-      margin-bottom: 3.5rem; /* generous space below image */
-    }
-  }
-  
-  @media screen and (max-width: 430px) {
-    .travis_scott1 {
-      margin-bottom: 4.5rem; /* even more space for iPhones */
-    }
-  }
 }
