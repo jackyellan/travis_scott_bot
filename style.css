@@ -62,7 +62,7 @@ body::before {
     transform: translateX(-50%) scale(1.05); /* Slightly enlarge on hover */
     transition: transform 0.3s ease; /* Smooth transition */
 
-    
+
 }
 
 /* Main heading styles */
@@ -622,5 +622,21 @@ select option {
     background: white !important;
     color: black !important;
     border: 1px solid black !important;
+  }
+
+  /* media travis_scott1 */
+  .travis_scott1 {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 2rem;
+    object-fit: cover;
+  }
+  
+  /* Optional glow effect on tap/hover */
+  .travis_scott1:hover,
+  .travis_scott1:active {
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.6);
+    transition: box-shadow 0.3s ease;
   }
 }
